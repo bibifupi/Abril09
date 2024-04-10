@@ -39,7 +39,7 @@ public class PruebaProveedores {
         Supplier<String> vacio = () -> "";
 
         String resu;
-        System.out.println("Es una cadena vacía: \"" + resu + "\"");
+        System.out.println("Es una cadena vacía: \""  + "\"");
     }
 
     //Proveedor de un objeto de configuración de la aplicación: Devolver un objeto que contiene la configuración de la aplicación, como rutas de archivos, ajustes de conexión, etc.
